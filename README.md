@@ -1,1 +1,2 @@
-# IA2_proyecto
+# Detección de cálculos renales
+
