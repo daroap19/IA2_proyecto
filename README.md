@@ -10,7 +10,7 @@ https://www.kaggle.com/datasets/safurahajiheidari/kidney-stone-images/data
 # Modelos: 
 Yolo, Modelo, epoch, Yolov5, Yolov8, Yolov10, Adam, Train, Predict
 # Enlace codigo:
--
+https://colab.research.google.com/drive/1ZW9aZC3CSlMRIKSNPaUQQJM1VYbIEVo-?usp=sharing
 # Enlace video:
 -
 # Enlace Repositorio: 
