@@ -1,5 +1,5 @@
 # Detección de cálculos renales
-![Barer_IA_2](https://github.com/daroap19/IA2_proyecto/blob/1e984ed729b23333be7812350ee4d756919cd289/Barner_IA_2.png)
+![Barner_IA_2](https://github.com/daroap19/IA2_proyecto/blob/1e984ed729b23333be7812350ee4d756919cd289/Barner_IA_2.png)
 # # Autores: 
 Daniel Alejandro Sánchez Rodríguez, Jorge Eduardo Suárez Cortes
 # Objetivo: 
