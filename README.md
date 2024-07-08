@@ -12,6 +12,6 @@ Yolo, Modelo, epoch, Yolov5, Yolov8, Yolov10, Adam, Train, Predict
 # Enlace codigo:
 https://colab.research.google.com/drive/1ZW9aZC3CSlMRIKSNPaUQQJM1VYbIEVo-?usp=sharing
 # Enlace video:
--
+https://youtu.be/LKEDdBrfREE
 # Enlace Repositorio: 
 https://github.com/daroap19/IA2_proyecto.git
